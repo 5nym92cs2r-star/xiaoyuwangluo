@@ -18,6 +18,7 @@
 
 ## 2026 机场推荐清单
 
+<!-- airport-table:start -->
 资料核验于 **2026-10-15**，每周一按官网、官方频道和带日期的第三方记录重新核对。完整资料、套餐表和购买前须知见各家的资料页。
 
 | 机场 | 推荐标签 | 起步价 | 每月流量 | 线路（官方宣称） | 详细资料 |
@@ -25,7 +26,8 @@
 | **二猫云** | 小鱼严选 · 稳定 · 性价比 | ¥20/月 | 130GB | IEPL / IPLC 专线 | [二猫云资料页](https://fishnetwork.blog/providers/ermaoyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-ermaoyun/) |
 | **EdgeNova** | 小鱼严选 · 稳定 · 性价比 | ¥15/月 | 72GB | IEPL 专线 | [EdgeNova 资料页](https://fishnetwork.blog/providers/edgenova/) · [为什么选它](https://fishnetwork.blog/recommend/why-edgenova/) |
 | **瞬云机场** | 稳定 · 性价比 | ¥18/月 | 150GB | 未公开线路类型 | [瞬云资料页](https://fishnetwork.blog/providers/shunyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-shunyun/) |
-| **鲲鹏加速** | 性价比 | ¥12/月（另有 ¥1 试用） | 99GB | 未公开线路类型 | [鲲鹏资料页](https://fishnetwork.blog/providers/kunpeng/) · [为什么选它](https://fishnetwork.blog/recommend/why-kunpeng/) |
+| **鲲鹏加速** | 性价比 | ¥12/月（另有 ¥1 试用） | 99GB | 未公开线路类型 | [鲲鹏加速资料页](https://fishnetwork.blog/providers/kunpeng/) · [为什么选它](https://fishnetwork.blog/recommend/why-kunpeng/) |
+<!-- airport-table:end -->
 
 > [!NOTE]
 > 表中信息来自官网、官方频道和带日期的第三方记录，属于**资料核验，本站未实测**；价格和流量以官网结算页为准。上面四家都是 2026 年上线的新机场，建议先买月付，用一周晚高峰验证后再决定是否续费。更多机场与对比见 [机场推荐页](https://fishnetwork.blog/recommend/)。
