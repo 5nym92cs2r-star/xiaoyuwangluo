@@ -2,11 +2,12 @@
 
 <img src="https://fishnetwork.blog/logo-512.png" width="112" alt="小鱼网络 Logo">
 
-# 小鱼网络 · Fish Network
+# 2026 机场推荐：稳定机场与性价比机场清单
 
-**最新地址发布页** ｜ 机场推荐 · 客户端教程 · 网络知识 · AI 使用环境
+**小鱼网络 · 每周一更新** ｜ 最新地址发布页 · 机场推荐 · Clash / v2rayN / Shadowrocket 教程 · AI 稳定机场
 
 [![官网](https://img.shields.io/badge/官网-fishnetwork.blog-4562e6)](https://fishnetwork.blog/)
+[![机场推荐](https://img.shields.io/badge/机场推荐-每周更新-d6336f)](https://fishnetwork.blog/recommend/)
 [![Telegram](https://img.shields.io/badge/Telegram-@xiaoyu33s-26A5E4?logo=telegram&logoColor=white)](https://t.me/xiaoyu33s)
 [![RSS](https://img.shields.io/badge/RSS-订阅更新-f26522?logo=rss&logoColor=white)](https://fishnetwork.blog/rss.xml)
 
@@ -14,6 +15,28 @@
 
 > [!TIP]
 > 建议 **Star** 收藏本仓库。网站打不开或更换域名时，这里会第一时间更新最新地址。
+
+## 2026 机场推荐清单
+
+资料核验于 **2026-10-15**，每周一按官网、官方频道和带日期的第三方记录重新核对。完整资料、套餐表和购买前须知见各家的资料页。
+
+| 机场 | 推荐标签 | 起步价 | 每月流量 | 线路（官方宣称） | 详细资料 |
+|---|---|---|---|---|---|
+| **二猫云** | 小鱼严选 · 稳定 · 性价比 | ¥20/月 | 130GB | IEPL / IPLC 专线 | [二猫云资料页](https://fishnetwork.blog/providers/ermaoyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-ermaoyun/) |
+| **EdgeNova** | 小鱼严选 · 稳定 · 性价比 | ¥15/月 | 72GB | IEPL 专线 | [EdgeNova 资料页](https://fishnetwork.blog/providers/edgenova/) · [为什么选它](https://fishnetwork.blog/recommend/why-edgenova/) |
+| **瞬云机场** | 稳定 · 性价比 | ¥18/月 | 150GB | 未公开线路类型 | [瞬云资料页](https://fishnetwork.blog/providers/shunyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-shunyun/) |
+| **鲲鹏加速** | 性价比 | ¥12/月（另有 ¥1 试用） | 99GB | 未公开线路类型 | [鲲鹏资料页](https://fishnetwork.blog/providers/kunpeng/) · [为什么选它](https://fishnetwork.blog/recommend/why-kunpeng/) |
+
+> [!NOTE]
+> 表中信息来自官网、官方频道和带日期的第三方记录，属于**资料核验，本站未实测**；价格和流量以官网结算页为准。上面四家都是 2026 年上线的新机场，建议先买月付，用一周晚高峰验证后再决定是否续费。更多机场与对比见 [机场推荐页](https://fishnetwork.blog/recommend/)。
+
+### 怎么选？三句话版本
+
+1. **先看线路，再看节点数**：专线或优质中转在晚高峰更稳，节点多不等于好用。
+2. **先月付，后长期**：用一个月验证晚高峰和售后，再决定是否续费。
+3. **按用途选**：看视频重带宽，用 ChatGPT、Claude 等 AI 重出口 IP 稳定，游戏重延迟。
+
+完整方法见：[2026 稳定机场怎么选：线路、价格到售后的判断方法](https://fishnetwork.blog/recommend/how-to-choose-airport-2026/)
 
 ## 最新地址
 
@@ -23,7 +46,7 @@
 | Telegram 联系 | https://t.me/xiaoyu33s | ✅ |
 | RSS 订阅 | https://fishnetwork.blog/rss.xml | ✅ |
 
-最后更新：2026-10-15
+地址最后更新：2026-10-15
 
 ### 网站打不开怎么办？
 
