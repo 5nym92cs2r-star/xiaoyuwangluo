@@ -79,17 +79,21 @@
 - [稳定机场推荐：判断机场稳不稳定的 5 个硬指标](https://fishnetwork.blog/recommend/stable-airport/)
 - [性价比机场推荐：用真实单价算清便宜机场值不值](https://fishnetwork.blog/recommend/value-airport/)
 - [新手第一次选择机场应该注意什么？9 个避坑要点](https://fishnetwork.blog/recommend/beginner-airport-tips/)
+- [Clash 机场推荐（2026）：支持 Clash 订阅的机场怎么选、节点怎么买](https://fishnetwork.blog/recommend/clash-airport/)
 
 ### 机场对比
 
 - [机场对比总览](https://fishnetwork.blog/compare/)
 - [怎么对比机场？10 个维度的横向对比清单](https://fishnetwork.blog/compare/how-to-compare-airports/)
 - [机场月付还是年付？按跑路风险算一笔账](https://fishnetwork.blog/compare/monthly-vs-yearly/)
+- [机场测评怎么看？测速、排行榜和“实测”哪些能信](https://fishnetwork.blog/compare/how-to-read-airport-reviews/)
 
 ### 机场知识
 
 - [机场是什么？一文看懂机场代理、节点与订阅](https://fishnetwork.blog/knowledge/what-is-airport/)
 - [机场导航是什么？导航站能信吗、怎么用才不踩坑](https://fishnetwork.blog/knowledge/airport-navigation/)
+- [机场、梯子和 VPN 有什么区别？一文讲清原理与怎么选](https://fishnetwork.blog/knowledge/airport-vs-vpn/)
+- [免费机场和免费节点能用吗？公益机场的风险与低成本替代](https://fishnetwork.blog/knowledge/free-airport/)
 
 ### 客户端教程
 
