@@ -24,17 +24,17 @@
 | 机场 | 推荐标签 | 起步价 | 每月流量 | 线路（官方宣称） | 详细资料 |
 |---|---|---|---|---|---|
 | **二猫云** | 小鱼严选 · 稳定 · 性价比 | ¥20/月 | 130GB | IEPL / IPLC 专线 | [二猫云资料页](https://fishnetwork.blog/providers/ermaoyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-ermaoyun/) |
-| **闪电鼠** | 性价比 | ¥22/月 | 120GB | IEPL / IPLC 专线 | [闪电鼠资料页](https://fishnetwork.blog/providers/shandianshu/) · [为什么选它](https://fishnetwork.blog/recommend/why-shandianshu/) |
+| **闪电鼠** | 小鱼严选 · 性价比 | ¥22/月 | 120GB | IEPL / IPLC 专线 | [闪电鼠资料页](https://fishnetwork.blog/providers/shandianshu/) · [为什么选它](https://fishnetwork.blog/recommend/why-shandianshu/) |
 | **快狸** | 性价比 | ¥15/月 | 50GB | IEPL 专线 | [快狸资料页](https://fishnetwork.blog/providers/kuaili/) · [为什么选它](https://fishnetwork.blog/recommend/why-kuaili/) |
 | **瞬云机场** | 稳定 · 性价比 | ¥18/月 | 150GB | 未公开线路类型 | [瞬云资料页](https://fishnetwork.blog/providers/shunyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-shunyun/) |
 | **速界** | 性价比 | ¥25/月（另有 ¥15 试用） | 130GB | IPLC 专线 | [速界资料页](https://fishnetwork.blog/providers/sujie/) · [为什么选它](https://fishnetwork.blog/recommend/why-sujie/) |
-| **EdgeNova** | 小鱼严选 · 稳定 · 性价比 | ¥15/月 | 72GB | IEPL 专线 | [EdgeNova 资料页](https://fishnetwork.blog/providers/edgenova/) · [为什么选它](https://fishnetwork.blog/recommend/why-edgenova/) |
+| **EdgeNova** | 稳定 · 性价比 | ¥15/月 | 72GB | IEPL 专线 | [EdgeNova 资料页](https://fishnetwork.blog/providers/edgenova/) · [为什么选它](https://fishnetwork.blog/recommend/why-edgenova/) |
 | **可信云** | 性价比 | ¥15/月 | 60GB | IEPL / IPLC 专线 | [可信云资料页](https://fishnetwork.blog/providers/kexinyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-kexinyun/) |
 | **云图机场** | — | ¥20/月 | 150GB | 未公开线路类型 | [云图资料页](https://fishnetwork.blog/providers/yuntu/) · [为什么选它](https://fishnetwork.blog/recommend/why-yuntu/) |
 | **环球梯** | 性价比 | ¥23/月 | 120GB | 未公开线路类型 | [环球梯资料页](https://fishnetwork.blog/providers/huanqiuti/) · [为什么选它](https://fishnetwork.blog/recommend/why-huanqiuti/) |
 | **鲲鹏加速** | 性价比 | ¥12/月（另有 ¥1 试用） | 99GB | 未公开线路类型 | [鲲鹏加速资料页](https://fishnetwork.blog/providers/kunpeng/) · [为什么选它](https://fishnetwork.blog/recommend/why-kunpeng/) |
 | **云界线** | 性价比 | ¥22/月 | 150GB | 未公开线路类型 | [云界线资料页](https://fishnetwork.blog/providers/yunjiexian/) · [为什么选它](https://fishnetwork.blog/recommend/why-yunjiexian/) |
-| **大佬云** | 性价比 | ¥23/月 | 130GB | 未公开线路类型 | [大佬云资料页](https://fishnetwork.blog/providers/dalaoyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-dalaoyun/) |
+| **大佬云** | 性价比 | ¥19.99/月 | 100GB | 未公开线路类型 | [大佬云资料页](https://fishnetwork.blog/providers/dalaoyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-dalaoyun/) |
 | **榴莲云** | 性价比 | ¥24/月 | 140GB | 未公开线路类型 | [榴莲云资料页](https://fishnetwork.blog/providers/liulianyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-liulianyun/) |
 | **速网云** | 性价比 | ¥9.9/月 | 50GB | BGP | [速网云资料页](https://fishnetwork.blog/providers/suwangyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-suwangyun/) |
 | **神行加速** | 性价比 | ¥23/月 | 120GB | 未公开线路类型 | [神行加速资料页](https://fishnetwork.blog/providers/shenxing/) · [为什么选它](https://fishnetwork.blog/recommend/why-shenxing/) |
