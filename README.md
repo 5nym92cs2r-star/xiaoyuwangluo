@@ -19,7 +19,7 @@
 ## 2026 机场推荐清单
 
 <!-- airport-table:start -->
-资料核验于 **2026-10-20**，每周一按官网、官方频道和带日期的第三方记录重新核对。完整资料、套餐表和购买前须知见各家的资料页。
+资料核验于 **2026-10-31**，每周一按官网、官方频道和带日期的第三方记录重新核对。完整资料、套餐表和购买前须知见各家的资料页。
 
 | 机场 | 推荐标签 | 起步价 | 每月流量 | 线路（官方宣称） | 详细资料 |
 |---|---|---|---|---|---|
@@ -32,12 +32,12 @@
 | **可信云** | 性价比 | ¥15/月 | 60GB | IEPL / IPLC 专线 | [可信云资料页](https://fishnetwork.blog/providers/kexinyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-kexinyun/) |
 | **云图机场** | — | ¥20/月 | 150GB | 未公开线路类型 | [云图资料页](https://fishnetwork.blog/providers/yuntu/) · [为什么选它](https://fishnetwork.blog/recommend/why-yuntu/) |
 | **环球梯** | 性价比 | ¥21/月 | 140GB | 未公开线路类型 | [环球梯资料页](https://fishnetwork.blog/providers/huanqiuti/) · [为什么选它](https://fishnetwork.blog/recommend/why-huanqiuti/) |
-| **鲲鹏加速** | 性价比 | ¥12/月（另有 ¥1 试用） | 99GB | 未公开线路类型 | [鲲鹏加速资料页](https://fishnetwork.blog/providers/kunpeng/) · [为什么选它](https://fishnetwork.blog/recommend/why-kunpeng/) |
+| **鲲鹏加速** | 性价比 | ¥12/月 | 99GB | 未公开线路类型 | [鲲鹏加速资料页](https://fishnetwork.blog/providers/kunpeng/) · [为什么选它](https://fishnetwork.blog/recommend/why-kunpeng/) |
 | **云界线** | 性价比 | ¥22/月 | 150GB | 未公开线路类型 | [云界线资料页](https://fishnetwork.blog/providers/yunjiexian/) · [为什么选它](https://fishnetwork.blog/recommend/why-yunjiexian/) |
-| **大佬云** | 性价比 | ¥19.99/月 | 100GB | 未公开线路类型 | [大佬云资料页](https://fishnetwork.blog/providers/dalaoyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-dalaoyun/) |
-| **榴莲云** | 性价比 | ¥24/月 | 140GB | 未公开线路类型 | [榴莲云资料页](https://fishnetwork.blog/providers/liulianyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-liulianyun/) |
+| **大佬云** | 性价比 | ¥19.99/月 | 100GB | IPLC / IEPL 专线 | [大佬云资料页](https://fishnetwork.blog/providers/dalaoyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-dalaoyun/) |
+| **榴莲云** | 性价比 | ¥24/月 | 140GB | IPLC / IEPL 专线 | [榴莲云资料页](https://fishnetwork.blog/providers/liulianyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-liulianyun/) |
 | **速网云** | 性价比 | ¥9.9/月 | 50GB | BGP | [速网云资料页](https://fishnetwork.blog/providers/suwangyun/) · [为什么选它](https://fishnetwork.blog/recommend/why-suwangyun/) |
-| **神行加速** | 性价比 | ¥23/月 | 150GB | 未公开线路类型 | [神行加速资料页](https://fishnetwork.blog/providers/shenxing/) · [为什么选它](https://fishnetwork.blog/recommend/why-shenxing/) |
+| **神行加速** | 性价比 | ¥23/月 | 150GB | IPLC / IEPL 专线 | [神行加速资料页](https://fishnetwork.blog/providers/shenxing/) · [为什么选它](https://fishnetwork.blog/recommend/why-shenxing/) |
 <!-- airport-table:end -->
 
 > [!NOTE]
@@ -110,6 +110,7 @@
 
 - [Clash 使用教程（2026）：从选客户端、导入订阅到分流规则](https://fishnetwork.blog/clients/clash-guide/)
 - [v2rayN 使用教程（2026）：安装、导入订阅、切换内核与常见问题](https://fishnetwork.blog/clients/v2rayn-guide/)
+- [v2rayNG 使用教程（2026）：安卓导入订阅、路由设置与内核说明](https://fishnetwork.blog/clients/v2rayng-guide/)
 - [Shadowrocket 使用教程：小火箭导入订阅、选择节点与规则配置](https://fishnetwork.blog/clients/shadowrocket-guide/)
 - [Clash 和 v2rayN 有什么区别？2026 年该用哪个](https://fishnetwork.blog/compare/clash-vs-v2rayn/)
 
