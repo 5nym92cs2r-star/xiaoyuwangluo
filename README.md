@@ -16,6 +16,16 @@
 > [!TIP]
 > 建议 **Star** 收藏本仓库。网站打不开或更换域名时，这里会第一时间更新最新地址。
 
+## 免费计算工具
+
+[机场套餐成本计算器](https://fishnetwork.blog/tools/airport-cost/)：输入实际付款、周期、流量额度、倍率和预计用量，区分每月重置、全周期共享与不限时流量包，估算月均成本和每 GB 成本，并提示流量缺口。无需登录，计算在浏览器本地完成。
+
+- [完整公式与口径](https://fishnetwork.blog/tools/airport-cost/#formula)
+- [三个可手算核对的示例](https://fishnetwork.blog/tools/airport-cost/#examples)
+- [来源与引用信息](https://fishnetwork.blog/tools/airport-cost/#cite)
+
+示例均为假设数字；工具不评价服务商质量，也不预测停服风险。发现计算问题，可通过页面提供的联系方式反馈。
+
 ## 2026 机场推荐清单
 
 <!-- airport-table:start -->
